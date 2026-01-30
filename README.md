@@ -42,39 +42,6 @@ I'm a recent BCIT Computer Systems graduate who enjoys learning by building. I'm
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🌟 Featured Projects
-
-### [TDP Games](https://github.com/rockclimber147/CloudComputingTermProject) - Real-time Multiplayer Gaming Platform
-- **Tech**: Node.js, TypeScript, WebSockets, Redis, AWS, RDS
-- Built a cloud-hosted real-time game platform with lobby system and user management
-- Implemented WebSocket communication for seamless multiplayer experience
-- Because who doesn't love a good game of pong with friends?
-
-### [FaaSify](https://github.com/faasify-official) - Serverless E-commerce Platform
-- **Tech**: React, TypeScript, AWS Lambda, DynamoDB, Bun, WebSockets
-- Collaborative project with an 11-person team on serverless architecture
-- Developed real-time chat with typing indicators and presence tracking using WebSocket server
-- Learned that coordinating 11 developers is harder than any serverless architecture
-
-### [SafeDev](https://github.com/dipenvir/SafeDev) - Developer Security Platform
-- **Tech**: Next.js, TypeScript, Tailwind CSS, NextAuth, OpenAI API, Vercel
-- A developer-first security platform built in 24 hours during a hackathon with a partner
-- Features real-time GitHub scanning with secret detection and JWT inspector for validation
-- AI-powered security advisor using GPT-4o that provides unified security scores with prioritized remediation steps
-
-### [Pouyan Web Services](https://github.com/PouyanNorouzi/pws) - Cross-platform SSH Client
-- **Tech**: C, libssh, SFTP, Raspberry Pi, Linux
-- Cross-platform client for SSH server connection and file management
-- Works on both Linux and Windows with Raspberry Pi integration and SFTP functionality
-- Sometimes you just need to get back to the basics with good old C
-
-## 🏠 Home Lab Adventures
-
-I maintain a Raspberry Pi running Pi OS where I host many of my projects. This little machine has taught me more about system administration than any textbook ever could! It's my playground for:
-- Self-hosting and deployment experiments
-- Linux system administration (and the occasional "oops, I broke everything" moment)
-- Network configuration and security
-
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PouyanNorouzi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
