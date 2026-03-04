@@ -52,5 +52,5 @@ I'm a recent BCIT Computer Systems graduate who enjoys learning by building. I'm
 
 - **Portfolio**: [pouyannorouzi.com](https://pouyannorouzi.com) (Built with Nuxt 3 and lots of coffee)
 - **LinkedIn**: [linkedin.com/in/pouyan-norouzi](https://www.linkedin.com/in/pouyan-norouzi/)
-- **Email**: [pouyannorouzii@gmail.com](mailto:pouyannorouzii@gmail.com)
+- **Email**: [pouyannorouzii@gmail.com](mailto:pouyannorouzii@gmail.com) 
 
