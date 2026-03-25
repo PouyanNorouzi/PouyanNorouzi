@@ -44,7 +44,7 @@ I'm a recent BCIT Computer Systems graduate who enjoys learning by building. I'm
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PouyanNorouzi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-olive-gamma.vercel.app?user=PouyanNorouzi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats-mocha-five-60.vercel.app/api/top-langs/?username=PouyanNorouzi&layout=donut&theme=radical)
 
